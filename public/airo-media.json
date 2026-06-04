@@ -1,0 +1,92 @@
+{
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png",
+    "searchQuery": "A clean modern wordmark logo for \"BuildLayer\" — a tech tool marketplace. The wor",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/solid-6e001cbe340d4dab34a02769519f580e/logo-buildlayer-6e001c.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/reversed-ccd8a1069f9afb3a9477cf093dab64ae/logo-buildlayer-ccd8a1.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/reversed-solid-bde37cd62af9847394a20970dd7d7500/logo-buildlayer-bde37c.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/mockup-831a75190af846b4d8ff92c2db4fdc35/logo-buildlayer-831a75.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/landscape-mockup-6717dc3eac47b86f85271ab25fd9bf03/logo-buildlayer-6717dc.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/transparent-21cb541bc3271f94ff413b929e0a434f/logo-buildlayer-21cb54.png": {
+        "sessionId": "1ad49b6b-9f3b-438a-91f0-b22b764035d7",
+        "logoId": "21cb541b"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-04T17:21:46.393Z",
+    "lastUpdated": "2026-06-04T21:12:09.972Z"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png",
+    "searchQuery": "A clean modern wordmark logo for \"BuildLayer\" — a tech tool marketplace. The wor",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-solid-34975c8d5c1e1097ef2a8ec876c15f50/logo-buildlayer-34975c.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-reversed-8053cbf0a0258ddb5862f50ebd76b901/logo-buildlayer-8053cb.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-reversed-solid-26133bda5a3256ce9a17d778180bbf70/logo-buildlayer-26133b.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-mockup-f373829d1f58f7e89d5e516cfc2b13f2/logo-buildlayer-f37382.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-mockup-f373829d1f58f7e89d5e516cfc2b13f2/logo-buildlayer-f37382.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/horizontal-transparent-5dc861d54695d0dce08272ade52528ce/logo-buildlayer-5dc861.png": {
+        "sessionId": "1ad49b6b-9f3b-438a-91f0-b22b764035d7",
+        "logoId": "21cb541b"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-04T17:21:46.393Z",
+    "lastUpdated": "2026-06-04T21:12:10.946Z"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png",
+    "searchQuery": "A clean modern wordmark logo for \"BuildLayer\" — a tech tool marketplace. The wor",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-solid-20c2262c9062780766877c8884bcb0ec/logo-buildlayer-20c226.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-reversed-516c01626553f04a8535c809b5505406/logo-buildlayer-516c01.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-reversed-solid-a031b24e6e389995967d2b896cd6dd21/logo-buildlayer-a031b2.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-mockup-3e569c84eac4433296bb27e872cd3de0/logo-buildlayer-3e569c.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-mockup-3e569c84eac4433296bb27e872cd3de0/logo-buildlayer-3e569c.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/3ed9f34f-6838-46b8-9694-7ad617c842d3/session/1ad49b6b-9f3b-438a-91f0-b22b764035d7/vertical-transparent-fa67a58f5931827bdf72e90d0e8ceba3/logo-buildlayer-fa67a5.png": {
+        "sessionId": "1ad49b6b-9f3b-438a-91f0-b22b764035d7",
+        "logoId": "21cb541b"
+      }
+    },
+    "userModified": true,
+    "createdAt": "2026-06-04T17:21:46.393Z",
+    "lastUpdated": "2026-06-04T21:12:12.009Z"
+  }
+}
